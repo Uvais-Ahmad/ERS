@@ -26,6 +26,6 @@ Here an admin have some rights :-
 ## Important Link:
 
 - **Youtube Video URL**: https://youtu.be/rFiFMkTtBio
-- **Hosting Link**: https://issuestrack.herokuapp.com/
+- **Hosting Link**: 
 
 <br/>
