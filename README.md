@@ -13,7 +13,7 @@ Here an admin have some rights :-
   2. Start by installing npm if you don't have it already.
   3. Navigate to Project Directory by : Using
   ```
-  cd issueTracker
+  cd dir_name
   
   ```
   
